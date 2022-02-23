@@ -16,7 +16,7 @@ public class CarDAO implements VehicleDAO<Car> {
 
     private static final String GET = "SELECT id, make, model, year FROM tblVehicles WHERE id=?";
     private static final String GET_ALL = "SELECT id, make, model, year FROM tblVehicles";
-    private static final String INSERT = "INSERt INTO tblVehicles (make, model, year) VALUES (?, ?, ?)";
+    private static final String INSERT = "INSERT INTO tblVehicles (make, model, year) VALUES (?, ?, ?)";
     private static final String UPDATE = "UPDATE tblVehicles SET make=?, model=?, year=? WHERE id=?";
     private static final String DELETE = "DELETE FROM tblVehicles WHERE id=?";
 

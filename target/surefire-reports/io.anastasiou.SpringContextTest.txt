@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: io.anastasiou.SpringContextTest
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.476 s - in io.anastasiou.SpringContextTest
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.198 s - in io.anastasiou.SpringContextTest
